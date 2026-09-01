@@ -1,9 +1,8 @@
 # Laporan Pertemuan 1
 
 ### Instalasi Library Baru Pada Google Colab
-<img src="./screenshot/ss1.PNG" width="500">
-
+![Screenshot 1](./screenshot/ss1.png)
 
 ### Konfigurasi pada Komputer Lokal
-<img src="./screenshot/ss2.PNG" width="400">
-<img src="./screenshot/ss3.PNG" width="550">
+![Screenshot 1](./screenshot/ss2.png)
+![Screenshot 1](./screenshot/ss3.png)
