@@ -1,1 +1,0 @@
-# Laporan Pertemuan 2
